@@ -33,7 +33,6 @@ class App extends Component {
 
          {/*App*/}
         <wrapper id='quote-box'>
-
             <div className="buttons">
 
                <button id='new-quote'className="button" onClick={()=>this.newQuote()}>New Quote</button>

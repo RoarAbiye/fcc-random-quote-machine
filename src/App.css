@@ -5,7 +5,7 @@
  flex-direction: column;
  height: 100vh;
  background-color: gold;
- padding-top: 25vh;
+ padding-top: 15vh;
 }
 
 .buttons {
@@ -50,8 +50,9 @@ width: 45%;
  box-shadow: 5px 5px black;
 }
 
-a:link {
+a {
  background-color: #1DA1F2;
+ color: white;
  border-radius: 5px;
  text-decoration: none;
  width: 75px;
@@ -61,6 +62,7 @@ a:link {
 
 a:hover {
   background-color: #F5F8FA;
+  color: black;
   box-shadow: 5px 5px black;
 }
 
