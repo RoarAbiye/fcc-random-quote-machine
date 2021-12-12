@@ -64,3 +64,22 @@ a:hover {
   box-shadow: 5px 5px black;
 }
 
+
+
+@media only screen and (max-width: 600px) {
+ 
+
+.buttons {
+margin-bottom: 5px;
+width: 75%;
+font-size: 15px;
+}
+.qouteAndauthor {
+ margin-top: 15px;
+ width: 75%;
+ height: 45%;
+ border-radius: 5px;
+ font-size: 18px;
+ font-style: italic;
+}
+}
