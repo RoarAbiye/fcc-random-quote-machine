@@ -24,7 +24,7 @@ width: 45%;
  color: black;
  padding: 15px;
  width: 45%;
- height: 45%;
+ height: 50%;
  border-radius: 5px;
  text-align: center;
  font-size: 20px;
@@ -79,7 +79,7 @@ font-size: 15px;
 .qouteAndauthor {
  margin-top: 15px;
  width: 75%;
- height: 45%;
+ height: 50%;
  border-radius: 5px;
  font-size: 18px;
  font-style: italic;
